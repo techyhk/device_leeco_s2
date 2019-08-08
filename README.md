@@ -1,0 +1,1 @@
+# device_leeco_s2
