@@ -246,3 +246,6 @@ persist.camera.tnr.video=1
 camera.tnr.video=1
 ro.camera.notify_nfc=1
 camera.notify_nfc=1
+
+# Havoc
+ro.havoc.maintainer=Himanshu Kumar (TECHYHK)
